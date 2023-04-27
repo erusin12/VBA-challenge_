@@ -3,6 +3,6 @@
 
  Because our classwork had not covered many of these elements, we were provided a skeleton code.  Based on prior examples and with the help of study groups, a starter code was developed, however there were errors when I ran the code.  I used internet resources recommended by my tutor to then work through the errors and help to debug the code to get it to run.
 
- Screenshots were submitted to show the three years as well as the macro enabled workbook and the exported macro.
+ Screenshots were submitted to show the three years as well as the exported macro.
 
 
